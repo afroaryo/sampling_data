@@ -1,7 +1,7 @@
 # sampling_data
 tugas 4 shell tooling pacmann
 
-1. Mendownload data dengan wget
+1. Mendownload data dengan wget \n
 wget https://github.com/labusiam/dataset/raw/main/weather_data.xlsx
 
 #Melihat sheet yang terdapat di file weather_data.xlsx
